@@ -1,0 +1,1592 @@
+fileid,labsamplename,labcategoryname,labcategorycode,labtestname,labtestcode,unit,result,resultasnumeric,resultmathoperation,asbestosdetected,labsampletype
+-1,K22-De0001397,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001397,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001397,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001397,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001397,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001397,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001397,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001397,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001397,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001397,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001397,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001397,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001397,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001397,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001397,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001397,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001397,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001397,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001397,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001397,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001397,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,220.15,220.1500,,,Solid
+-1,K22-De0001397,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,153.37,153.3700,,,Solid
+-1,K22-De0001397,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,0,0.0000,,,Solid
+-1,K22-De0001397,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001397,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,No,,,,Solid
+-1,K22-De0001397,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001397,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001397,Asbestos in Soils (AS 4964-2004),,Received Weight,,,526.56,526.5600,,,Solid
+-1,K22-De0001397,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,385.35,385.3500,,,Solid
+-1,K22-De0001397,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,385.35,385.3500,,,Solid
+-1,K22-De0001397,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001397,Asbestos Fines (AF) < 10 mm,,Total AF,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001397,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001397,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001397,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001397,,,% Moisture,,,,,,,Solid
+-1,K22-De0001397,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001396,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001396,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001396,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001396,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001396,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001396,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001396,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001396,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001396,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001396,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001396,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001396,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001396,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001396,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001396,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001396,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001396,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001396,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001396,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001396,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001396,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,258.59,258.5900,,,Solid
+-1,K22-De0001396,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,192.02,192.0200,,,Solid
+-1,K22-De0001396,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,16.09,16.0900,,,Solid
+-1,K22-De0001396,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001396,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,No,,,,Solid
+-1,K22-De0001396,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001396,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001396,Asbestos in Soils (AS 4964-2004),,Received Weight,,,637.51,637.5100,,,Solid
+-1,K22-De0001396,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,478.44,478.4400,,,Solid
+-1,K22-De0001396,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,478.44,478.4400,,,Solid
+-1,K22-De0001396,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001396,Asbestos Fines (AF) < 10 mm,,Total AF,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001396,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001396,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001396,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001396,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001396,,,% Moisture,,,,,,,Solid
+-1,K22-De0001395,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001395,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001395,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001395,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001395,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001395,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001395,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001395,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001395,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001395,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001395,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001395,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001395,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001395,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001395,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001395,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001395,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001395,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001395,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001395,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001395,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001395,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001395,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001395,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001395,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001395,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001395,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001395,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001395,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001395,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001395,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001395,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001395,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001395,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001395,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001395,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001395,,,% Moisture,,,,,,,Solid
+-1,K22-De0001394,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001394,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001394,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001394,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001394,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001394,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001394,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001394,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001394,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001394,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001394,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001394,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001394,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001394,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001394,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001394,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001394,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001394,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001394,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001394,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001394,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001394,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001394,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001394,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001394,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001394,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001394,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001394,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001394,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001394,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001394,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001394,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001394,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001394,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001394,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001394,,,% Moisture,,,,,,,Solid
+-1,K22-De0001394,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001393,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Weathered fibre cement fragments and loose fibre bundles.,,,,Solid
+-1,K22-De0001393,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001393,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,0.001,0.0010,,,Solid
+-1,K22-De0001393,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001393,Metals,,Arsenic,,,5.5,5.5000,,,Solid
+-1,K22-De0001393,Metals,,Lead,,,21,21.0000,,,Solid
+-1,K22-De0001393,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001393,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001393,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001393,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001393,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001393,Heavy Metals,,Chromium,,,90,90.0000,,,Solid
+-1,K22-De0001393,Heavy Metals,,Copper,,,51,51.0000,,,Solid
+-1,K22-De0001393,Heavy Metals,,Cadmium,,,0.24,0.2400,,,Solid
+-1,K22-De0001393,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001393,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001393,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001393,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,70,70.0000,,,Solid
+-1,K22-De0001393,Fibrous Asbestos (FA) <10 mm,,Total FA,,,0.00822,0.0082,,,Solid
+-1,K22-De0001393,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,0.0012,0.0012,,,Solid
+-1,K22-De0001393,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,75.99,75.9900,,,Solid
+-1,K22-De0001393,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,244.1,244.1000,,,Solid
+-1,K22-De0001393,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,140.75,140.7500,,,Solid
+-1,K22-De0001393,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001393,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001393,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001393,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001393,Asbestos in Soils (AS 4964-2004),,Received Weight,,,633.86,633.8600,,,Solid
+-1,K22-De0001393,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,472.52,472.5200,,,Solid
+-1,K22-De0001393,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,472.52,472.5200,,,Solid
+-1,K22-De0001393,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001393,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.00112,0.0011,,,Solid
+-1,K22-De0001393,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001393,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001393,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001393,,,% Moisture,,,25,25.0000,,,Solid
+-1,K22-De0001393,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001392,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Loose fibre bundles.,,,,Solid
+-1,K22-De0001392,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001392,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001392,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001392,Metals,,Arsenic,,,4.9,4.9000,,,Solid
+-1,K22-De0001392,Metals,,Lead,,,20,20.0000,,,Solid
+-1,K22-De0001392,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001392,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001392,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001392,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001392,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001392,Heavy Metals,,Chromium,,,83,83.0000,,,Solid
+-1,K22-De0001392,Heavy Metals,,Copper,,,68,68.0000,,,Solid
+-1,K22-De0001392,Heavy Metals,,Cadmium,,,0.34,0.3400,,,Solid
+-1,K22-De0001392,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001392,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001392,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001392,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001392,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001392,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001392,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,274.97,274.9700,,,Solid
+-1,K22-De0001392,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,25.74,25.7400,,,Solid
+-1,K22-De0001392,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,196.6,196.6000,,,Solid
+-1,K22-De0001392,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001392,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001392,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001392,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001392,Asbestos in Soils (AS 4964-2004),,Received Weight,,,674.68,674.6800,,,Solid
+-1,K22-De0001392,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,509.09,509.0900,,,Solid
+-1,K22-De0001392,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,509.09,509.0900,,,Solid
+-1,K22-De0001392,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001392,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.00438,0.0044,,,Solid
+-1,K22-De0001392,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001392,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001392,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001392,,,% Moisture,,,25,25.0000,,,Solid
+-1,K22-De0001392,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001391,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001391,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001391,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001391,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001391,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001391,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001391,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001391,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001391,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001391,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001391,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001391,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001391,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001391,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001391,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001391,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001391,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001391,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001391,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001391,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001391,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,312,312.0000,,,Solid
+-1,K22-De0001391,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,30.05,30.0500,,,Solid
+-1,K22-De0001391,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,149.53,149.5300,,,Solid
+-1,K22-De0001391,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001391,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,No,,,,Solid
+-1,K22-De0001391,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001391,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001391,Asbestos in Soils (AS 4964-2004),,Received Weight,,,648.75,648.7500,,,Solid
+-1,K22-De0001391,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,503.26,503.2600,,,Solid
+-1,K22-De0001391,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,503.26,503.2600,,,Solid
+-1,K22-De0001391,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001391,Asbestos Fines (AF) < 10 mm,,Total AF,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001391,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001391,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001391,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001391,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001391,,,% Moisture,,,,,,,Solid
+-1,K22-De0001390,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Weathered fibre cement fragments and loose fibre bundles.,,,,Solid
+-1,K22-De0001390,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001390,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,0.38,0.3800,,,Solid
+-1,K22-De0001390,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,0.301,0.3010,,,Solid
+-1,K22-De0001390,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001390,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001390,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001390,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001390,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001390,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001390,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001390,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001390,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001390,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001390,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001390,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001390,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001390,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,50,50.0000,,,Solid
+-1,K22-De0001390,Fibrous Asbestos (FA) <10 mm,,Total FA,,,2.35736,2.3574,,,Solid
+-1,K22-De0001390,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,0.241,0.2410,,,Solid
+-1,K22-De0001390,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,34.68,34.6800,,,Solid
+-1,K22-De0001390,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,232.87,232.8700,,,Solid
+-1,K22-De0001390,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,208.92,208.9200,,,Solid
+-1,K22-De0001390,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001390,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001390,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001390,Asbestos in Soils (AS 4964-2004),,Received Weight,,,653.99,653.9900,,,Solid
+-1,K22-De0001390,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,488.32,488.3200,,,Solid
+-1,K22-De0001390,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,488.32,488.3200,,,Solid
+-1,K22-De0001390,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,0.68,0.6800,,,Solid
+-1,K22-De0001390,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.30624,0.3062,,,Solid
+-1,K22-De0001390,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,0.06,0.0600,,,Solid
+-1,K22-De0001390,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,12.4,12.4000,,,Solid
+-1,K22-De0001390,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001390,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001390,,,% Moisture,,,,,,,Solid
+-1,K22-De0001390,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001389,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001389,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001389,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001389,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001389,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001389,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001389,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001389,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001389,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001389,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001389,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001389,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001389,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001389,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001389,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001389,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001389,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001389,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001389,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001389,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001389,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,215.56,215.5600,,,Solid
+-1,K22-De0001389,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,183.31,183.3100,,,Solid
+-1,K22-De0001389,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,0,0.0000,,,Solid
+-1,K22-De0001389,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001389,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,No,,,,Solid
+-1,K22-De0001389,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001389,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001389,Asbestos in Soils (AS 4964-2004),,Received Weight,,,591.26,591.2600,,,Solid
+-1,K22-De0001389,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,411.71,411.7100,,,Solid
+-1,K22-De0001389,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,411.71,411.7100,,,Solid
+-1,K22-De0001389,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001389,Asbestos Fines (AF) < 10 mm,,Total AF,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001389,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001389,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001389,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001389,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001389,,,% Moisture,,,,,,,Solid
+-1,K22-De0001388,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Loose fibre bundles.,,,,Solid
+-1,K22-De0001388,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001388,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,0.002,0.0020,,,Solid
+-1,K22-De0001388,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001388,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001388,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001388,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001388,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001388,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001388,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001388,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001388,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001388,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001388,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001388,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001388,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001388,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001388,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001388,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001388,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001388,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,89.19,89.1900,,,Solid
+-1,K22-De0001388,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,246.05,246.0500,,,Solid
+-1,K22-De0001388,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,171.17,171.1700,,,Solid
+-1,K22-De0001388,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001388,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001388,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001388,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001388,Asbestos in Soils (AS 4964-2004),,Received Weight,,,716.77,716.7700,,,Solid
+-1,K22-De0001388,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,517.58,517.5800,,,Solid
+-1,K22-De0001388,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,517.58,517.5800,,,Solid
+-1,K22-De0001388,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.00861,0.0086,,,Solid
+-1,K22-De0001388,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,0.002,0.0020,,,Solid
+-1,K22-De0001388,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001388,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001388,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001388,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001388,,,% Moisture,,,,,,,Solid
+-1,K22-De0001387,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001387,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001387,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001387,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001387,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001387,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001387,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001387,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001387,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001387,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001387,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001387,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001387,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001387,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001387,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001387,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001387,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001387,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001387,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001387,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001387,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001387,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001387,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001387,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001387,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001387,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001387,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001387,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001387,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001387,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001387,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001387,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001387,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001387,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001387,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001387,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001387,,,% Moisture,,,,,,,Solid
+-1,K22-De0001386,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001386,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001386,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001386,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001386,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001386,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001386,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001386,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001386,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001386,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001386,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001386,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001386,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001386,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001386,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001386,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001386,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001386,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001386,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001386,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001386,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001386,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001386,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001386,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001386,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001386,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001386,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001386,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001386,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001386,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001386,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001386,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001386,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001386,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001386,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001386,,,% Moisture,,,,,,,Solid
+-1,K22-De0001386,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001385,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001385,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001385,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001385,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001385,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001385,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001385,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001385,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001385,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001385,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001385,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001385,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001385,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001385,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001385,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001385,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001385,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001385,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001385,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001385,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001385,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,44.15,44.1500,,,Solid
+-1,K22-De0001385,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,278.31,278.3100,,,Solid
+-1,K22-De0001385,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,155.55,155.5500,,,Solid
+-1,K22-De0001385,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001385,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,No,,,,Solid
+-1,K22-De0001385,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001385,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001385,Asbestos in Soils (AS 4964-2004),,Received Weight,,,643.11,643.1100,,,Solid
+-1,K22-De0001385,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,489.1,489.1000,,,Solid
+-1,K22-De0001385,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,489.1,489.1000,,,Solid
+-1,K22-De0001385,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001385,Asbestos Fines (AF) < 10 mm,,Total AF,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001385,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001385,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001385,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001385,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001385,,,% Moisture,,,,,,,Solid
+-1,K22-De0001384,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Loose fibre bundles.,,,,Solid
+-1,K22-De0001384,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001384,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,0.004,0.0040,,,Solid
+-1,K22-De0001384,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001384,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001384,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001384,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001384,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001384,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001384,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001384,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001384,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001384,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001384,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001384,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001384,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001384,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001384,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001384,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001384,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001384,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,250.37,250.3700,,,Solid
+-1,K22-De0001384,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,169.43,169.4300,,,Solid
+-1,K22-De0001384,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,12.59,12.5900,,,Solid
+-1,K22-De0001384,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001384,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001384,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001384,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001384,Asbestos in Soils (AS 4964-2004),,Received Weight,,,608.27,608.2700,,,Solid
+-1,K22-De0001384,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,444.27,444.2700,,,Solid
+-1,K22-De0001384,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,444.27,444.2700,,,Solid
+-1,K22-De0001384,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.01692,0.0169,,,Solid
+-1,K22-De0001384,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,0.004,0.0040,,,Solid
+-1,K22-De0001384,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001384,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001384,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001384,,,% Moisture,,,,,,,Solid
+-1,K22-De0001384,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001383,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001383,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001383,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001383,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001383,Metals,,Arsenic,,,5.2,5.2000,,,Solid
+-1,K22-De0001383,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001383,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001383,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001383,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001383,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001383,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001383,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001383,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001383,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001383,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001383,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001383,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001383,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001383,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001383,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001383,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001383,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001383,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001383,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001383,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001383,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001383,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001383,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001383,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001383,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001383,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001383,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001383,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001383,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001383,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001383,,,% Moisture,,,20,20.0000,,,Solid
+-1,K22-De0001383,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001382,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001382,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001382,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001382,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001382,Metals,,Arsenic,,,<0.1,0.1000,<,,Solid
+-1,K22-De0001382,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001382,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001382,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001382,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001382,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001382,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001382,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001382,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001382,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001382,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001382,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001382,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001382,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001382,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001382,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001382,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001382,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001382,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001382,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001382,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001382,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001382,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001382,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001382,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001382,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001382,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001382,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001382,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001382,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001382,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001382,,,% Moisture,,,26,26.0000,,,Solid
+-1,K22-De0001382,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001381,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Loose fibre bundles.,,,,Solid
+-1,K22-De0001381,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001381,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001381,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001381,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001381,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001381,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001381,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001381,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001381,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001381,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001381,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001381,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001381,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001381,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001381,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001381,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001381,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001381,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001381,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001381,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,33.54,33.5400,,,Solid
+-1,K22-De0001381,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,234.43,234.4300,,,Solid
+-1,K22-De0001381,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,178.94,178.9400,,,Solid
+-1,K22-De0001381,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001381,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001381,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001381,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001381,Asbestos in Soils (AS 4964-2004),,Received Weight,,,600.11,600.1100,,,Solid
+-1,K22-De0001381,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,458.72,458.7200,,,Solid
+-1,K22-De0001381,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,458.72,458.7200,,,Solid
+-1,K22-De0001381,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001381,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.00126,0.0013,,,Solid
+-1,K22-De0001381,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001381,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001381,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001381,,,% Moisture,,,,,,,Solid
+-1,K22-De0001381,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001380,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Loose fibre bundles.,,,,Solid
+-1,K22-De0001380,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001380,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,0.003,0.0030,,,Solid
+-1,K22-De0001380,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001380,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001380,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001380,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001380,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001380,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001380,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001380,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001380,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001380,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001380,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001380,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001380,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001380,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001380,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001380,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001380,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001380,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,230.78,230.7800,,,Solid
+-1,K22-De0001380,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,19.88,19.8800,,,Solid
+-1,K22-De0001380,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,180.44,180.4400,,,Solid
+-1,K22-De0001380,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001380,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001380,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001380,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001380,Asbestos in Soils (AS 4964-2004),,Received Weight,,,594.7,594.7000,,,Solid
+-1,K22-De0001380,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,442.76,442.7600,,,Solid
+-1,K22-De0001380,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,442.76,442.7600,,,Solid
+-1,K22-De0001380,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.01182,0.0118,,,Solid
+-1,K22-De0001380,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,0.003,0.0030,,,Solid
+-1,K22-De0001380,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001380,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001380,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001380,,,% Moisture,,,,,,,Solid
+-1,K22-De0001380,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001379,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001379,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001379,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001379,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001379,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001379,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001379,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001379,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001379,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001379,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001379,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001379,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001379,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001379,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001379,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001379,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001379,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001379,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001379,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001379,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001379,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001379,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001379,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001379,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001379,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001379,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001379,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001379,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001379,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001379,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001379,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001379,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001379,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001379,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001379,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001379,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001379,,,% Moisture,,,,,,,Solid
+-1,K22-De0001378,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001378,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001378,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001378,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001378,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001378,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001378,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001378,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001378,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001378,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001378,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001378,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001378,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001378,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001378,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001378,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001378,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001378,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001378,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001378,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001378,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001378,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001378,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001378,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001378,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001378,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001378,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001378,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001378,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001378,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001378,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001378,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001378,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001378,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001378,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001378,,,% Moisture,,,,,,,Solid
+-1,K22-De0001378,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001377,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001377,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001377,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001377,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001377,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001377,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001377,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001377,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001377,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001377,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001377,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001377,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001377,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001377,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001377,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001377,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001377,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001377,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001377,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001377,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001377,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001377,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001377,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001377,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001377,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001377,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001377,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001377,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001377,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001377,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001377,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001377,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001377,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001377,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001377,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001377,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001377,,,% Moisture,,,,,,,Solid
+-1,K22-De0001376,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001376,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001376,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001376,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001376,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001376,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001376,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001376,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001376,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001376,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001376,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001376,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001376,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001376,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001376,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001376,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001376,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001376,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001376,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001376,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001376,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001376,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001376,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001376,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001376,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001376,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001376,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001376,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001376,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001376,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001376,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001376,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001376,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001376,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001376,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001376,,,% Moisture,,,,,,,Solid
+-1,K22-De0001376,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001375,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001375,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001375,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001375,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001375,Metals,,Lead,,,12,12.0000,,,Solid
+-1,K22-De0001375,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001375,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001375,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001375,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001375,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001375,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001375,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001375,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001375,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001375,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001375,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001375,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001375,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001375,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001375,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001375,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001375,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001375,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001375,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001375,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001375,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001375,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001375,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001375,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001375,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001375,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001375,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001375,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001375,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001375,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001375,,,% Moisture,,,31,31.0000,,,Solid
+-1,K22-De0001375,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001374,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001374,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001374,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001374,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001374,Metals,,Lead,,,21,21.0000,,,Solid
+-1,K22-De0001374,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001374,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001374,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001374,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001374,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001374,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001374,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001374,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001374,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001374,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001374,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001374,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001374,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001374,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001374,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001374,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001374,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001374,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001374,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001374,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001374,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001374,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001374,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001374,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001374,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001374,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001374,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001374,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001374,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001374,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001374,,,% Moisture,,,25,25.0000,,,Solid
+-1,K22-De0001374,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001373,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001373,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001373,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001373,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001373,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001373,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001373,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001373,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001373,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001373,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001373,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001373,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001373,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001373,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001373,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001373,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001373,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001373,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001373,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001373,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001373,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001373,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001373,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001373,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001373,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001373,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001373,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001373,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001373,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001373,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001373,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001373,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001373,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001373,Asbestos (Presence/Absence),,Asbestos type,,,Asbestos NOT detected,,,,Solid
+-1,K22-De0001373,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001373,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001373,,,% Moisture,,,,,,,Solid
+-1,K22-De0001372,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001372,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001372,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001372,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001372,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001372,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001372,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001372,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001372,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001372,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001372,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001372,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001372,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001372,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001372,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001372,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001372,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001372,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001372,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001372,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001372,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001372,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001372,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001372,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001372,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001372,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001372,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001372,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001372,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001372,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001372,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001372,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001372,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001372,Asbestos (Presence/Absence),,Asbestos type,,,Asbestos NOT detected,,,,Solid
+-1,K22-De0001372,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001372,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001372,,,% Moisture,,,,,,,Solid
+-1,K22-De0001371,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001371,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001371,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001371,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001371,Metals,,Arsenic,,,9.2,9.2000,,,Solid
+-1,K22-De0001371,Metals,,Chromium,,,69,69.0000,,,Solid
+-1,K22-De0001371,Metals,,Nickel,,,56,56.0000,,,Solid
+-1,K22-De0001371,Metals,,Lead,,,40,40.0000,,,Solid
+-1,K22-De0001371,Metals,,Copper,,,40,40.0000,,,Solid
+-1,K22-De0001371,Metals,,Zinc,,,150,150.0000,,,Solid
+-1,K22-De0001371,Metals,,Cadmium,,,0.18,0.1800,,,Solid
+-1,K22-De0001371,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001371,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001371,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001371,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001371,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001371,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001371,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001371,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001371,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001371,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001371,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001371,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001371,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001371,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001371,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001371,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001371,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001371,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001371,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001371,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001371,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001371,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001371,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001371,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001371,,,% Moisture,,,13,13.0000,,,Solid
+-1,K22-De0001371,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001370,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Loose fibre bundles.,,,,Solid
+-1,K22-De0001370,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001370,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,0.05,0.0500,,,Solid
+-1,K22-De0001370,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,0.019,0.0190,,,Solid
+-1,K22-De0001370,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001370,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001370,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001370,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001370,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001370,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001370,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001370,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001370,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001370,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001370,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,40,40.0000,,,Solid
+-1,K22-De0001370,Fibrous Asbestos (FA) >10 mm,,Total FA,,,0.11049,0.1105,,,Solid
+-1,K22-De0001370,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,0.009,0.0090,,,Solid
+-1,K22-De0001370,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001370,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001370,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001370,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,273.73,273.7300,,,Solid
+-1,K22-De0001370,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,183.49,183.4900,,,Solid
+-1,K22-De0001370,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,15.22,15.2200,,,Solid
+-1,K22-De0001370,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001370,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001370,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001370,Asbestos in Soils (AS 4964-2004),,Received Weight,,,636.55,636.5500,,,Solid
+-1,K22-De0001370,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,484.09,484.0900,,,Solid
+-1,K22-De0001370,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,484.09,484.0900,,,Solid
+-1,K22-De0001370,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,0.07,0.0700,,,Solid
+-1,K22-De0001370,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.0459,0.0459,,,Solid
+-1,K22-De0001370,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,0.01,0.0100,,,Solid
+-1,K22-De0001370,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,1.2,1.2000,,,Solid
+-1,K22-De0001370,Asbestos (Presence/Absence),,Asbestos form,,,Fibre cement fragments,,,,Solid
+-1,K22-De0001370,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001370,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001370,,,% Moisture,,,,,,,Solid
+-1,K22-De0001369,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Loose fibre bundles.,,,,Solid
+-1,K22-De0001369,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001369,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,0.002,0.0020,,,Solid
+-1,K22-De0001369,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001369,Metals,,Lead,,,,,,,Solid
+-1,K22-De0001369,Metals,,Arsenic,,,,,,,Solid
+-1,K22-De0001369,Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001369,Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001369,Metals,,Copper,,,,,,,Solid
+-1,K22-De0001369,Metals,,Nickel,,,,,,,Solid
+-1,K22-De0001369,Metals,,Zinc,,,,,,,Solid
+-1,K22-De0001369,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001369,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001369,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001369,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001369,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001369,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001369,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001369,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001369,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001369,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,7.84,7.8400,,,Solid
+-1,K22-De0001369,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,231.58,231.5800,,,Solid
+-1,K22-De0001369,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,226.19,226.1900,,,Solid
+-1,K22-De0001369,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001369,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001369,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001369,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001369,Asbestos in Soils (AS 4964-2004),,Received Weight,,,625.2,625.2000,,,Solid
+-1,K22-De0001369,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,477.39,477.3900,,,Solid
+-1,K22-De0001369,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,477.39,477.3900,,,Solid
+-1,K22-De0001369,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.01184,0.0118,,,Solid
+-1,K22-De0001369,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,0.002,0.0020,,,Solid
+-1,K22-De0001369,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001369,Asbestos (Presence/Absence),,Asbestos form,,,Loose fibre bundles,,,,Solid
+-1,K22-De0001369,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001369,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001369,,,% Moisture,,,,,,,Solid
+-1,K22-De0001368,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001368,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001368,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001368,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001368,Metals,,Chromium,,,70,70.0000,,,Solid
+-1,K22-De0001368,Metals,,Arsenic,,,7.5,7.5000,,,Solid
+-1,K22-De0001368,Metals,,Nickel,,,48,48.0000,,,Solid
+-1,K22-De0001368,Metals,,Lead,,,37,37.0000,,,Solid
+-1,K22-De0001368,Metals,,Copper,,,37,37.0000,,,Solid
+-1,K22-De0001368,Metals,,Zinc,,,150,150.0000,,,Solid
+-1,K22-De0001368,Metals,,Cadmium,,,0.21,0.2100,,,Solid
+-1,K22-De0001368,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001368,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001368,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001368,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001368,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001368,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001368,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001368,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001368,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001368,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001368,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001368,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001368,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001368,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001368,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001368,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001368,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001368,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001368,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001368,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001368,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001368,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001368,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001368,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001368,,,% Moisture,,,24,24.0000,,,Solid
+-1,K22-De0001368,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001367,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001367,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001367,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001367,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001367,Metals,,Chromium,,,72,72.0000,,,Solid
+-1,K22-De0001367,Metals,,Arsenic,,,5.3,5.3000,,,Solid
+-1,K22-De0001367,Metals,,Nickel,,,42,42.0000,,,Solid
+-1,K22-De0001367,Metals,,Lead,,,38,38.0000,,,Solid
+-1,K22-De0001367,Metals,,Copper,,,29,29.0000,,,Solid
+-1,K22-De0001367,Metals,,Zinc,,,130,130.0000,,,Solid
+-1,K22-De0001367,Metals,,Cadmium,,,0.31,0.3100,,,Solid
+-1,K22-De0001367,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001367,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001367,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001367,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001367,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001367,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001367,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001367,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001367,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001367,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001367,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001367,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001367,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001367,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001367,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001367,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001367,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001367,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001367,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001367,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001367,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001367,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001367,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001367,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001367,,,% Moisture,,,25,25.0000,,,Solid
+-1,K22-De0001367,,,Asbestos Sample Description,,,,,,,Solid
+-1,K22-De0001366,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Weathered fibre cement fragments and loose fibre bundles.,,,,Solid
+-1,K22-De0001366,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001366,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,0.243,0.2430,,,Solid
+-1,K22-De0001366,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,0.23,0.2300,,,Solid
+-1,K22-De0001366,Metals,,Arsenic,,,8.2,8.2000,,,Solid
+-1,K22-De0001366,Metals,,Chromium,,,72,72.0000,,,Solid
+-1,K22-De0001366,Metals,,Lead,,,50,50.0000,,,Solid
+-1,K22-De0001366,Metals,,Nickel,,,43,43.0000,,,Solid
+-1,K22-De0001366,Metals,,Copper,,,43,43.0000,,,Solid
+-1,K22-De0001366,Metals,,Zinc,,,110,110.0000,,,Solid
+-1,K22-De0001366,Metals,,Cadmium,,,0.22,0.2200,,,Solid
+-1,K22-De0001366,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001366,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001366,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001366,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,50,50.0000,,,Solid
+-1,K22-De0001366,Fibrous Asbestos (FA) >10 mm,,Total FA,,,1.44125,1.4412,,,Solid
+-1,K22-De0001366,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,0.168,0.1680,,,Solid
+-1,K22-De0001366,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,80,80.0000,,,Solid
+-1,K22-De0001366,Fibrous Asbestos (FA) <10 mm,,Total FA,,,0.09389,0.0939,,,Solid
+-1,K22-De0001366,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,0.018,0.0180,,,Solid
+-1,K22-De0001366,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,231.52,231.5200,,,Solid
+-1,K22-De0001366,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,174.33,174.3300,,,Solid
+-1,K22-De0001366,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,12.84,12.8400,,,Solid
+-1,K22-De0001366,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001366,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001366,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001366,Asbestos in Soils (AS 4964-2004),,Received Weight,,,585.63,585.6300,,,Solid
+-1,K22-De0001366,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,429.2,429.2000,,,Solid
+-1,K22-De0001366,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,429.2,429.2000,,,Solid
+-1,K22-De0001366,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,0.47,0.4700,,,Solid
+-1,K22-De0001366,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.2461,0.2461,,,Solid
+-1,K22-De0001366,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,0.057,0.0570,,,Solid
+-1,K22-De0001366,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,4.9,4.9000,,,Solid
+-1,K22-De0001366,Asbestos (Presence/Absence),,Asbestos form,,,Loose fibre bundles,,,,Solid
+-1,K22-De0001366,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001366,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001366,,,% Moisture,,,27,27.0000,,,Solid
+-1,K22-De0001365,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001365,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001365,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001365,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001365,Metals,,Arsenic,,,8.7,8.7000,,,Solid
+-1,K22-De0001365,Metals,,Chromium,,,73,73.0000,,,Solid
+-1,K22-De0001365,Metals,,Nickel,,,51,51.0000,,,Solid
+-1,K22-De0001365,Metals,,Copper,,,44,44.0000,,,Solid
+-1,K22-De0001365,Metals,,Lead,,,28,28.0000,,,Solid
+-1,K22-De0001365,Metals,,Zinc,,,130,130.0000,,,Solid
+-1,K22-De0001365,Metals,,Cadmium,,,0.23,0.2300,,,Solid
+-1,K22-De0001365,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001365,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001365,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001365,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001365,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001365,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001365,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001365,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001365,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001365,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001365,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001365,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001365,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001365,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001365,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001365,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001365,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001365,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001365,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001365,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001365,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001365,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001365,Asbestos (Presence/Absence),,Asbestos type,,,Asbestos NOT detected,,,,Solid
+-1,K22-De0001365,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001365,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001365,,,% Moisture,,,32,32.0000,,,Solid
+-1,K22-De0001364,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Weathered fibre cement fragments and loose fibre bundles.,,,,Solid
+-1,K22-De0001364,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001364,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,0.011,0.0110,,,Solid
+-1,K22-De0001364,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001364,Metals,,Copper,,,93,93.0000,,,Solid
+-1,K22-De0001364,Metals,,Lead,,,86,86.0000,,,Solid
+-1,K22-De0001364,Metals,,Nickel,,,56,56.0000,,,Solid
+-1,K22-De0001364,Metals,,Zinc,,,360,360.0000,,,Solid
+-1,K22-De0001364,Metals,,Chromium,,,160,160.0000,,,Solid
+-1,K22-De0001364,Metals,,Arsenic,,,13,13.0000,,,Solid
+-1,K22-De0001364,Metals,,Cadmium,,,0.95,0.9500,,,Solid
+-1,K22-De0001364,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001364,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001364,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001364,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001364,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001364,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001364,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,80,80.0000,,,Solid
+-1,K22-De0001364,Fibrous Asbestos (FA) <10 mm,,Total FA,,,0.03971,0.0397,,,Solid
+-1,K22-De0001364,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,0.007,0.0070,,,Solid
+-1,K22-De0001364,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,232.69,232.6900,,,Solid
+-1,K22-De0001364,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,213.92,213.9200,,,Solid
+-1,K22-De0001364,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,17.35,17.3500,,,Solid
+-1,K22-De0001364,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001364,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001364,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001364,Asbestos in Soils (AS 4964-2004),,Received Weight,,,647.76,647.7600,,,Solid
+-1,K22-De0001364,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,475.56,475.5600,,,Solid
+-1,K22-De0001364,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,475.56,475.5600,,,Solid
+-1,K22-De0001364,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,0.01,0.0100,,,Solid
+-1,K22-De0001364,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.02035,0.0204,,,Solid
+-1,K22-De0001364,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,0.004,0.0040,,,Solid
+-1,K22-De0001364,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001364,Asbestos (Presence/Absence),,Asbestos form,,,Fibre cement fragments,,,,Solid
+-1,K22-De0001364,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001364,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001364,,,% Moisture,,,29,29.0000,,,Solid
+-1,K22-De0001363,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Weathered fibre cement fragments and loose fibre bundles.,,,,Solid
+-1,K22-De0001363,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001363,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,0.15,0.1500,,,Solid
+-1,K22-De0001363,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,0.04,0.0400,,,Solid
+-1,K22-De0001363,Metals,,Chromium,,,75,75.0000,,,Solid
+-1,K22-De0001363,Metals,,Arsenic,,,5.5,5.5000,,,Solid
+-1,K22-De0001363,Metals,,Copper,,,42,42.0000,,,Solid
+-1,K22-De0001363,Metals,,Nickel,,,40,40.0000,,,Solid
+-1,K22-De0001363,Metals,,Lead,,,23,23.0000,,,Solid
+-1,K22-De0001363,Metals,,Zinc,,,100,100.0000,,,Solid
+-1,K22-De0001363,Metals,,Cadmium,,,0.18,0.1800,,,Solid
+-1,K22-De0001363,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001363,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001363,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001363,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,70,70.0000,,,Solid
+-1,K22-De0001363,Fibrous Asbestos (FA) >10 mm,,Total FA,,,0.11584,0.1158,,,Solid
+-1,K22-De0001363,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,0.016,0.0160,,,Solid
+-1,K22-De0001363,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,80,80.0000,,,Solid
+-1,K22-De0001363,Fibrous Asbestos (FA) <10 mm,,Total FA,,,0.06019,0.0602,,,Solid
+-1,K22-De0001363,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,0.01,0.0100,,,Solid
+-1,K22-De0001363,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,221.61,221.6100,,,Solid
+-1,K22-De0001363,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,220.44,220.4400,,,Solid
+-1,K22-De0001363,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,10.11,10.1100,,,Solid
+-1,K22-De0001363,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001363,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001363,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001363,Asbestos in Soils (AS 4964-2004),,Received Weight,,,614.37,614.3700,,,Solid
+-1,K22-De0001363,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,492.98,492.9800,,,Solid
+-1,K22-De0001363,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,492.98,492.9800,,,Solid
+-1,K22-De0001363,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,0.19,0.1900,,,Solid
+-1,K22-De0001363,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.06681,0.0668,,,Solid
+-1,K22-De0001363,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,0.014,0.0140,,,Solid
+-1,K22-De0001363,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,3.7,3.7000,,,Solid
+-1,K22-De0001363,Asbestos (Presence/Absence),,Asbestos form,,,Loose fibre bundles,,,,Solid
+-1,K22-De0001363,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001363,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001363,,,% Moisture,,,26,26.0000,,,Solid
+-1,K22-De0001362,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Loose fibre bundles.,,,,Solid
+-1,K22-De0001362,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001362,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001362,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001362,Metals,,Arsenic,,,9.6,9.6000,,,Solid
+-1,K22-De0001362,Metals,,Chromium,,,68,68.0000,,,Solid
+-1,K22-De0001362,Metals,,Nickel,,,45,45.0000,,,Solid
+-1,K22-De0001362,Metals,,Copper,,,43,43.0000,,,Solid
+-1,K22-De0001362,Metals,,Lead,,,30,30.0000,,,Solid
+-1,K22-De0001362,Metals,,Zinc,,,120,120.0000,,,Solid
+-1,K22-De0001362,Metals,,Cadmium,,,0.15,0.1500,,,Solid
+-1,K22-De0001362,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001362,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001362,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001362,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001362,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001362,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001362,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001362,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001362,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001362,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,6.77,6.7700,,,Solid
+-1,K22-De0001362,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,193,193.0000,,,Solid
+-1,K22-De0001362,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,159.49,159.4900,,,Solid
+-1,K22-De0001362,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001362,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001362,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001362,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001362,Asbestos in Soils (AS 4964-2004),,Received Weight,,,530.21,530.2100,,,Solid
+-1,K22-De0001362,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,370.91,370.9100,,,Solid
+-1,K22-De0001362,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,370.91,370.9100,,,Solid
+-1,K22-De0001362,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001362,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.00066,0.0007,,,Solid
+-1,K22-De0001362,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001362,Asbestos (Presence/Absence),,Asbestos form,,,Fibre cement fragments,,,,Solid
+-1,K22-De0001362,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001362,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001362,,,% Moisture,,,32,32.0000,,,Solid
+-1,K22-De0001361,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001361,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001361,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001361,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001361,Metals,,Arsenic,,,8.2,8.2000,,,Solid
+-1,K22-De0001361,Metals,,Chromium,,,73,73.0000,,,Solid
+-1,K22-De0001361,Metals,,Nickel,,,58,58.0000,,,Solid
+-1,K22-De0001361,Metals,,Copper,,,40,40.0000,,,Solid
+-1,K22-De0001361,Metals,,Lead,,,38,38.0000,,,Solid
+-1,K22-De0001361,Metals,,Zinc,,,110,110.0000,,,Solid
+-1,K22-De0001361,Metals,,Cadmium,,,0.15,0.1500,,,Solid
+-1,K22-De0001361,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001361,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001361,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001361,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001361,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001361,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001361,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001361,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001361,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001361,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001361,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001361,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001361,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001361,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001361,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001361,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001361,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001361,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001361,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001361,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001361,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001361,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001361,Asbestos (Presence/Absence),,Asbestos type,,,Asbestos NOT detected,,,,Solid
+-1,K22-De0001361,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001361,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001361,,,% Moisture,,,30,30.0000,,,Solid
+-1,K22-De0001360,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Loose fibre bundles.,,,,Solid
+-1,K22-De0001360,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001360,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,0.004,0.0040,,,Solid
+-1,K22-De0001360,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001360,Metals,,Arsenic,,,9.1,9.1000,,,Solid
+-1,K22-De0001360,Metals,,Chromium,,,71,71.0000,,,Solid
+-1,K22-De0001360,Metals,,Nickel,,,52,52.0000,,,Solid
+-1,K22-De0001360,Metals,,Copper,,,43,43.0000,,,Solid
+-1,K22-De0001360,Metals,,Lead,,,22,22.0000,,,Solid
+-1,K22-De0001360,Metals,,Zinc,,,130,130.0000,,,Solid
+-1,K22-De0001360,Metals,,Cadmium,,,0.17,0.1700,,,Solid
+-1,K22-De0001360,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001360,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001360,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001360,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001360,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001360,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001360,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001360,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001360,Fibrous Asbestos (FA) <10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001360,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,229.7,229.7000,,,Solid
+-1,K22-De0001360,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,127.84,127.8400,,,Solid
+-1,K22-De0001360,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,0,0.0000,,,Solid
+-1,K22-De0001360,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001360,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001360,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001360,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,<0.01,0.0100,<,,Solid
+-1,K22-De0001360,Asbestos in Soils (AS 4964-2004),,Received Weight,,,532.57,532.5700,,,Solid
+-1,K22-De0001360,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,369.38,369.3800,,,Solid
+-1,K22-De0001360,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,369.38,369.3800,,,Solid
+-1,K22-De0001360,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.01538,0.0154,,,Solid
+-1,K22-De0001360,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,0.004,0.0040,,,Solid
+-1,K22-De0001360,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,<0.1,0.1000,<,,Solid
+-1,K22-De0001360,Asbestos (Presence/Absence),,Asbestos form,,,Loose fibre bundles,,,,Solid
+-1,K22-De0001360,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001360,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001360,,,% Moisture,,,29,29.0000,,,Solid
+-1,K22-De0001359,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001359,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001359,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001359,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001359,Metals,,Chromium,,,76,76.0000,,,Solid
+-1,K22-De0001359,Metals,,Copper,,,64,64.0000,,,Solid
+-1,K22-De0001359,Metals,,Lead,,,47,47.0000,,,Solid
+-1,K22-De0001359,Metals,,Nickel,,,47,47.0000,,,Solid
+-1,K22-De0001359,Metals,,Arsenic,,,22,22.0000,,,Solid
+-1,K22-De0001359,Metals,,Zinc,,,200,200.0000,,,Solid
+-1,K22-De0001359,Metals,,Cadmium,,,0.61,0.6100,,,Solid
+-1,K22-De0001359,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001359,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001359,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001359,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001359,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001359,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001359,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001359,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001359,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001359,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001359,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001359,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001359,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001359,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001359,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001359,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001359,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001359,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001359,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001359,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001359,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001359,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001359,Asbestos (Presence/Absence),,Asbestos type,,,Asbestos NOT detected,,,,Solid
+-1,K22-De0001359,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001359,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001359,,,% Moisture,,,31,31.0000,,,Solid
+-1,K22-De0001358,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,Weathered fibre cement fragments and loose fibre bundles.,,,,Solid
+-1,K22-De0001358,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Chrysotile (White Asbestos) detected),,,Detected,Solid
+-1,K22-De0001358,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,0.25,0.2500,,,Solid
+-1,K22-De0001358,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,0.02,0.0200,,,Solid
+-1,K22-De0001358,Metals,,Chromium,,,69,69.0000,,,Solid
+-1,K22-De0001358,Metals,,Arsenic,,,6.8,6.8000,,,Solid
+-1,K22-De0001358,Metals,,Nickel,,,43,43.0000,,,Solid
+-1,K22-De0001358,Metals,,Copper,,,41,41.0000,,,Solid
+-1,K22-De0001358,Metals,,Lead,,,33,33.0000,,,Solid
+-1,K22-De0001358,Metals,,Zinc,,,170,170.0000,,,Solid
+-1,K22-De0001358,Metals,,Cadmium,,,0.26,0.2600,,,Solid
+-1,K22-De0001358,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001358,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001358,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001358,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,N/A,,,,Solid
+-1,K22-De0001358,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,<0.001,0.0010,<,,Solid
+-1,K22-De0001358,Fibrous Asbestos (FA) >10 mm,,Total FA,,,<0.00001,0.0000,<,,Solid
+-1,K22-De0001358,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,80,80.0000,,,Solid
+-1,K22-De0001358,Fibrous Asbestos (FA) <10 mm,,Total FA,,,0.06618,0.0662,,,Solid
+-1,K22-De0001358,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,0.013,0.0130,,,Solid
+-1,K22-De0001358,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,230.75,230.7500,,,Solid
+-1,K22-De0001358,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,22.61,22.6100,,,Solid
+-1,K22-De0001358,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,133.04,133.0400,,,Solid
+-1,K22-De0001358,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,Yes,,,,Solid
+-1,K22-De0001358,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,No trace asbestos detected.,,,,Solid
+-1,K22-De0001358,Asbestos in Soils (AS 4964-2004),,Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001358,Asbestos in Soils (AS 4964-2004),,Received Weight,,,544.46,544.4600,,,Solid
+-1,K22-De0001358,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,397.9,397.9000,,,Solid
+-1,K22-De0001358,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,397.9,397.9000,,,Solid
+-1,K22-De0001358,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,0.27,0.2700,,,Solid
+-1,K22-De0001358,Asbestos Fines (AF) < 10 mm,,Total AF,,,0.02563,0.0256,,,Solid
+-1,K22-De0001358,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,0.006,0.0060,,,Solid
+-1,K22-De0001358,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,4.9,4.9000,,,Solid
+-1,K22-De0001358,Asbestos (Presence/Absence),,Asbestos form,,,Fibre cement fragments,,,,Solid
+-1,K22-De0001358,Asbestos (Presence/Absence),,Asbestos type,,,Chrysotile (White Asbestos) detected,,,,Solid
+-1,K22-De0001358,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001358,,,% Moisture,,,30,30.0000,,,Solid
+-1,K22-De0001357,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001357,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001357,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001357,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001357,Metals,,Arsenic,,,8,8.0000,,,Solid
+-1,K22-De0001357,Metals,,Chromium,,,74,74.0000,,,Solid
+-1,K22-De0001357,Metals,,Copper,,,66,66.0000,,,Solid
+-1,K22-De0001357,Metals,,Nickel,,,53,53.0000,,,Solid
+-1,K22-De0001357,Metals,,Lead,,,35,35.0000,,,Solid
+-1,K22-De0001357,Metals,,Zinc,,,160,160.0000,,,Solid
+-1,K22-De0001357,Metals,,Cadmium,,,0.29,0.2900,,,Solid
+-1,K22-De0001357,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001357,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001357,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001357,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001357,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001357,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001357,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001357,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001357,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001357,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001357,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001357,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001357,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001357,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001357,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001357,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001357,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001357,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001357,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001357,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001357,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001357,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001357,Asbestos (Presence/Absence),,Asbestos type,,,Asbestos NOT detected,,,,Solid
+-1,K22-De0001357,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001357,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001357,,,% Moisture,,,29,29.0000,,,Solid
+-1,K22-De0001356,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001356,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001356,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001356,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001356,Metals,,Arsenic,,,9,9.0000,,,Solid
+-1,K22-De0001356,Metals,,Chromium,,,68,68.0000,,,Solid
+-1,K22-De0001356,Metals,,Lead,,,49,49.0000,,,Solid
+-1,K22-De0001356,Metals,,Nickel,,,43,43.0000,,,Solid
+-1,K22-De0001356,Metals,,Copper,,,36,36.0000,,,Solid
+-1,K22-De0001356,Metals,,Zinc,,,180,180.0000,,,Solid
+-1,K22-De0001356,Metals,,Cadmium,,,0.3,0.3000,,,Solid
+-1,K22-De0001356,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001356,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001356,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001356,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001356,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001356,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001356,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001356,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001356,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001356,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001356,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001356,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001356,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001356,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001356,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001356,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001356,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001356,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001356,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001356,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001356,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001356,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001356,Asbestos (Presence/Absence),,Asbestos type,,,Asbestos NOT detected,,,,Solid
+-1,K22-De0001356,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001356,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001356,,,% Moisture,,,25,25.0000,,,Solid
+-1,K22-De0001355,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos Presence / Absence,,,Asbestos NOT detected,,,Not Detected,Solid
+-1,K22-De0001355,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Description of Asbestos Form,,,-,,,,Solid
+-1,K22-De0001355,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Asbestos in ACM as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001355,New Zealand Guidelines Semi Quantitative Asbestos in Soil,,Combined Fibrous Asbestos + Asbestos Fines as % of Total Sample,,,-,,,,Solid
+-1,K22-De0001355,Metals,,Chromium,,,77,77.0000,,,Solid
+-1,K22-De0001355,Metals,,Arsenic,,,6.2,6.2000,,,Solid
+-1,K22-De0001355,Metals,,Nickel,,,51,51.0000,,,Solid
+-1,K22-De0001355,Metals,,Copper,,,49,49.0000,,,Solid
+-1,K22-De0001355,Metals,,Lead,,,150,150.0000,,,Solid
+-1,K22-De0001355,Metals,,Zinc,,,100,100.0000,,,Solid
+-1,K22-De0001355,Metals,,Cadmium,,,0.15,0.1500,,,Solid
+-1,K22-De0001355,Heavy Metals,,Copper,,,,,,,Solid
+-1,K22-De0001355,Heavy Metals,,Chromium,,,,,,,Solid
+-1,K22-De0001355,Heavy Metals,,Cadmium,,,,,,,Solid
+-1,K22-De0001355,Fibrous Asbestos (FA) >10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001355,Fibrous Asbestos (FA) >10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001355,Fibrous Asbestos (FA) >10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001355,Fibrous Asbestos (FA) <10 mm,,FA Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001355,Fibrous Asbestos (FA) <10 mm,,FA % asbestos (weighted average),,,,,,,Solid
+-1,K22-De0001355,Fibrous Asbestos (FA) <10 mm,,Total FA,,,,,,,Solid
+-1,K22-De0001355,Asbestos in Soils (NZ GAMAS),,Weight (<2 mm),,,,,,,Solid
+-1,K22-De0001355,Asbestos in Soils (NZ GAMAS),,Weight (>10 mm),,,,,,,Solid
+-1,K22-De0001355,Asbestos in Soils (NZ GAMAS),,Weight (<10 mm >2 mm),,,,,,,Solid
+-1,K22-De0001355,Asbestos in Soils (AS 4964-2004),,Sample Description,,,,,,,Solid
+-1,K22-De0001355,Asbestos in Soils (AS 4964-2004),,Received Weight,,,,,,,Solid
+-1,K22-De0001355,Asbestos in Soils (AS 4964-2004),,Total Dry Mass,,,,,,,Solid
+-1,K22-De0001355,Asbestos in Soils (AS 4964-2004),,Total Analytical Fraction,,,,,,,Solid
+-1,K22-De0001355,Asbestos in Soils (AS 4964-2004),,Asbestos Detected,,,,,,,Solid
+-1,K22-De0001355,Asbestos in Soils (AS 4964-2004),,Asbestos Content (as asbestos),,,,,,,Solid
+-1,K22-De0001355,Asbestos in Soils (AS 4964-2004),,Trace Analysis,,,,,,,Solid
+-1,K22-De0001355,Asbestos Fines (AF) < 10 mm,,Total AF,,,,,,,Solid
+-1,K22-De0001355,Asbestos Fines (AF) < 10 mm,,AF Asbestos in Soil,,,,,,,Solid
+-1,K22-De0001355,Asbestos Containing Materials (ACM) >10 mm,,Total ACM (> 10mm),,,,,,,Solid
+-1,K22-De0001355,Asbestos (Presence/Absence),,Asbestos type,,,Asbestos NOT detected,,,,Solid
+-1,K22-De0001355,Asbestos (Presence/Absence),,Asbestos form,,,-,,,,Solid
+-1,K22-De0001355,,,Asbestos Sample Description,,,Fine grained soil and rocks,,,,Solid
+-1,K22-De0001355,,,% Moisture,,,34,34.0000,,,Solid
